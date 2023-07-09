@@ -1,0 +1,7 @@
+This is a website to virtually select the type of coffee you want.
+
+It uses OpenCV(a Computer Vision) library to accomplish the specified task.
+
+Also modules like cvzone,os,numpy are being used here.
+
+--To run the file, clone the repo to your device and then run the file in any python IDE.
